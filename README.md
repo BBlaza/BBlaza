@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Justin 👋
 
 - 🌱 I’m currently learning Object Oriented Programming at the University of Florida
 <!--
